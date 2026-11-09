@@ -1,0 +1,17 @@
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\bin\Debug\net10.0\parte2.exe
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\bin\Debug\net10.0\parte2.deps.json
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\bin\Debug\net10.0\parte2.runtimeconfig.json
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\bin\Debug\net10.0\parte2.dll
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\bin\Debug\net10.0\parte2.pdb
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\parte2.AssemblyInfoInputs.cache
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\parte2.AssemblyInfo.cs
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\parte2.csproj.CoreCompileInputs.cache
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\parte2.dll
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\refint\parte2.dll
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\parte2.pdb
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\parte2.genruntimeconfig.cache
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\ref\parte2.dll
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\parte2.csproj.AssemblyReference.cache
+C:\Users\avarg\Documents\Ale\UTP\3er\HPA III\Parcial #3\Json\parte2\obj\Debug\net10.0\parte2.csproj.Up2Date
